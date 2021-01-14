@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>Positive</folder>
+	<filename>10.jpg</filename>
+	<path>C:\Users\Waseem\Desktop\Leg-Bone-Fracture-Detection\Positive\10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>400</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fracture</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>305</xmin>
+			<ymin>248</ymin>
+			<xmax>349</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>
