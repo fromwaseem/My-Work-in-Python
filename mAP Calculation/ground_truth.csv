@@ -1,0 +1,6 @@
+image_name,width,height,class,xmin,ymin,xmax,ymax
+input1.jpg,590,979,oblique displaced,201,473,327,604
+input2.jpg,540,400,oblique nondisplaced,249,193,263,274
+input3.jpg,642,809,comminuted,363,220,448,374
+input4.jpg,1365,2048,oblique displaced,828,1280,997,1523
+input5.jpg,540,400,oblique displaced,463,319,485,338

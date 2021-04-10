@@ -1,0 +1,6 @@
+image_name,width,height,class,xmin,ymin,xmax,ymax
+output1.png,557,639,oblique displaced,181,444,308,571
+output2.png,513,384,oblique nondisplaced,222,182,240,266
+output3.png,631,681,commimuted,360,219,442,378
+output4.png,334,527,linear,167,229,203,348
+output5.png,541,425,transverse,72,217,96,232
